@@ -1,0 +1,1 @@
+open('/home/workdir/artifacts/victor_sovereign_desktop_app_v1.0.py').read()

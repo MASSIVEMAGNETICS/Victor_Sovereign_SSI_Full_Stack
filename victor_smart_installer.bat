@@ -1,0 +1,1 @@
+open('/home/workdir/artifacts/victor_smart_installer.bat').read()
